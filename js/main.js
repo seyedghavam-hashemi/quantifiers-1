@@ -1,7 +1,6 @@
 $(document).ready(function(){
   $('body').ripples({
       resolution: 256,
-      dropRadius: 20,
 
       perturbance: 0.01
   })
