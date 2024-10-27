@@ -21,7 +21,10 @@ html{
     background-image: url('../img/bg1-1.jpg');
     background-position:top;
         background-attachment: fixed;
-
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     min-height: 100%;
 }
 .mainparent{
