@@ -15,7 +15,7 @@
     display: table;
     clear: both;
 }
-body{
+html{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
