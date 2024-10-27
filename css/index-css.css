@@ -20,7 +20,7 @@ html{
     background-repeat: no-repeat;
     background-image: url('../img/bg1-1.jpg');
     background-position:top;
-   
+    min-height: 100%;
 }
 .mainparent{
     position: relative;
