@@ -15,7 +15,7 @@
     display: table;
     clear: both;
 }
-html{
+body{
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url('../img/bg1-1.jpg');
