@@ -20,6 +20,8 @@ html{
     background-repeat: no-repeat;
     background-image: url('../img/bg1-1.jpg');
     background-position:top;
+        background-attachment: fixed;
+
     min-height: 100%;
 }
 .mainparent{
